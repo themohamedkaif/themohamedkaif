@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/59303763700641.5ab98ff858d38.gif" width="1200" height="300" alt="Anilesh.">
+  <img src="https://media.licdn.com/dms/image/D4D12AQE2FKdqcd_YFQ/article-cover_image-shrink_600_2000/0/1659281690903?e=2147483647&v=beta&t=ewYtP-tx47iJFzhsATlrMT1LogB6-IWVSjEU1x4nX-8" width="1200" height="300" alt="Anilesh.">
 </p>
 
 - 👋 Hi, I’m @themohamedkaif
